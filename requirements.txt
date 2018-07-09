@@ -1,0 +1,8 @@
+ansiescapes==1.0.0
+passlib==1.7.1
+pkg-resources==0.0.0
+PyAudio==0.2.11
+pygame==1.9.3
+PyQt5==5.11.2
+PyQt5-sip==4.19.11
+SQLAlchemy==1.2.8
